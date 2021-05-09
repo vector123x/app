@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vector123</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-05-09T01:51:21.643Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>vector123</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>White Border - Square Fit Photo &amp; No Crop Photo</title>
+    <link href="http://example.com/White-Border/"/>
+    <id>http://example.com/White-Border/</id>
+    <published>2021-05-08T13:15:23.000Z</published>
+    <updated>2021-05-09T01:51:21.643Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=com.vector123.whiteborder&utm_source=https://app.vector123.com"><img src="/images/white-border.png" alt="White Border"></a></p><p>White Border is simple photo editing app help you create square photos with blur effect. Adding borders to your photo, post your photo to Instagram without cropping it. Use Awesome filters, fresh background gradients, blur backgrounds, frames, and text stickers. And High resolution output. No watermark. Clean user interface, easy to use. Share your pic on Instagram, Facebook, WhatsApp, Snapchat, Tumblr, Pinterest, Flickr and Twitter to get lots of likes!</p><a href='https://play.google.com/store/apps/details?id=com.vector123.whiteborder&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/en_badge_web_generic.png'/></a>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vector123.whiteborder&amp;utm_source=https://app.vector123.com&quot;&gt;&lt;img src=&quot;/images/</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Square Fit - Post Full Pictures on Instagram</title>
+    <link href="http://example.com/Square-Fit/"/>
+    <id>http://example.com/Square-Fit/</id>
+    <published>2021-05-07T15:07:59.000Z</published>
+    <updated>2021-05-09T01:52:07.106Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=com.vector123.nocrop.squarefitphoto&utm_source=https://app.vector123.com"><img src="/images/square-fit.png" alt="Square Fit"></a></p><p>Square Fit enables you to post entire photos on Instagram without cropping. Maintains excellent photo quality. Makes your Instagram more special. Easily adjust the blank and position, changing the background color. It is so simple but the result is amazing.</p><a href='https://play.google.com/store/apps/details?id=com.vector123.nocrop.squarefitphoto&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/en_badge_web_generic.png'/></a>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vector123.nocrop.squarefitphoto&amp;utm_source=https://app.vector123.com&quot;&gt;&lt;img src</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Contacts Tools-Excel to VCF &amp; Exporting Contacts</title>
+    <link href="http://example.com/Contacts-Tools/"/>
+    <id>http://example.com/Contacts-Tools/</id>
+    <published>2021-05-05T00:48:15.000Z</published>
+    <updated>2021-05-09T01:52:24.241Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=com.vector123.vcard&utm_source=https://app.vector123.com"><img src="/images/vcard.png" alt="White Border"></a></p><p>Quickly import contacts from Excel sheets to your phone’s address book. Exporting contacts to Excel file is also supported.</p><a href='https://play.google.com/store/apps/details?id=com.vector123.vcard&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/en_badge_web_generic.png'/></a>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vector123.vcard&amp;utm_source=https://app.vector123.com&quot;&gt;&lt;img src=&quot;/images/vcard.</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
