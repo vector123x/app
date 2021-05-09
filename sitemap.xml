@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/Square-Fit/index.html</loc>
+    <loc>https://app.vector123.com/Square-Fit/index.html</loc>
     
     <lastmod>2021-05-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/Contacts-Tools/index.html</loc>
+    <loc>https://app.vector123.com/Contacts-Tools/index.html</loc>
     
     <lastmod>2021-05-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/Contacts-Tools/</loc>
+    <loc>https://app.vector123.com/Contacts-Tools/</loc>
     
     <lastmod>2021-05-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/Square-Fit/</loc>
+    <loc>https://app.vector123.com/Square-Fit/</loc>
     
     <lastmod>2021-05-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/White-Border/index.html</loc>
+    <loc>https://app.vector123.com/White-Border/index.html</loc>
     
     <lastmod>2021-05-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/White-Border/</loc>
+    <loc>https://app.vector123.com/White-Border/</loc>
     
     <lastmod>2021-05-09</lastmod>
     
@@ -45,7 +45,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://app.vector123.com/</loc>
     <lastmod>2021-05-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
