@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://app.vector123.com/Contacts-Tools/</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/Retro-Clock/</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/Text-To-Speech/</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/Round-Photo-Maker/</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/Instant-Pomodoro-Timer/</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://app.vector123.com/White-Border/</loc>
     
     <lastmod>2022-11-21</lastmod>
@@ -16,65 +51,16 @@
   </url>
   
   <url>
-    <loc>https://app.vector123.com/iTimer/</loc>
-    
-    <lastmod>2022-11-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/Contacts-Tools/</loc>
-    
-    <lastmod>2022-11-21</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://app.vector123.com/Colorful-Palette/</loc>
     
     <lastmod>2022-11-21</lastmod>
     
   </url>
   
-  <url>
-    <loc>https://app.vector123.com/White-Border/index.html</loc>
-    
-    <lastmod>2022-11-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/Colorful-Palette/index.html</loc>
-    
-    <lastmod>2022-09-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/iTimer/index.html</loc>
-    
-    <lastmod>2022-09-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/Square-Fit/index.html</loc>
-    
-    <lastmod>2021-07-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/Contacts-Tools/index.html</loc>
-    
-    <lastmod>2021-05-09</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://app.vector123.com/</loc>
-    <lastmod>2022-11-21</lastmod>
+    <lastmod>2023-02-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
