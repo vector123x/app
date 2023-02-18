@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://app.vector123.com/Retro-Clock.html</loc>
+    <loc>https://app.vector123.com/Retro-Clock/</loc>
     
     <lastmod>2023-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://app.vector123.com/Text-To-Speech.html</loc>
+    <loc>https://app.vector123.com/Text-To-Speech/</loc>
     
     <lastmod>2023-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://app.vector123.com/White-Border.html</loc>
+    <loc>https://app.vector123.com/White-Border/</loc>
     
     <lastmod>2023-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://app.vector123.com/Round-Photo-Maker.html</loc>
+    <loc>https://app.vector123.com/Round-Photo-Maker/</loc>
     
     <lastmod>2023-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://app.vector123.com/Square-Fit.html</loc>
+    <loc>https://app.vector123.com/Square-Fit/</loc>
     
     <lastmod>2023-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://app.vector123.com/Colorful-Palette.html</loc>
+    <loc>https://app.vector123.com/Colorful-Palette/</loc>
     
     <lastmod>2023-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://app.vector123.com/Contacts-Tools.html</loc>
+    <loc>https://app.vector123.com/Contacts-Tools/</loc>
     
     <lastmod>2023-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://app.vector123.com/Instant-Pomodoro-Timer.html</loc>
+    <loc>https://app.vector123.com/Instant-Pomodoro-Timer/</loc>
     
     <lastmod>2023-02-18</lastmod>
     
@@ -109,6 +109,34 @@
   </url>
   
   <url>
+    <loc>https://app.vector123.com/tags/pomodoro-timer/</loc>
+    <lastmod>2023-02-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/focus-timer/</loc>
+    <lastmod>2023-02-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/tomato-clock/</loc>
+    <lastmod>2023-02-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/focus/</loc>
+    <lastmod>2023-02-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://app.vector123.com/tags/vcf/</loc>
     <lastmod>2023-02-18</lastmod>
     <changefreq>daily</changefreq>
@@ -152,34 +180,6 @@
   
   <url>
     <loc>https://app.vector123.com/tags/merging-duplicate-contacts/</loc>
-    <lastmod>2023-02-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/pomodoro-timer/</loc>
-    <lastmod>2023-02-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/focus-timer/</loc>
-    <lastmod>2023-02-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/tomato-clock/</loc>
-    <lastmod>2023-02-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/focus/</loc>
     <lastmod>2023-02-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -277,13 +277,6 @@
   </url>
   
   <url>
-    <loc>https://app.vector123.com/tags/square-fit-photo/</loc>
-    <lastmod>2023-02-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://app.vector123.com/tags/tts/</loc>
     <lastmod>2023-02-18</lastmod>
     <changefreq>daily</changefreq>
@@ -369,6 +362,13 @@
   
   <url>
     <loc>https://app.vector123.com/tags/blur-background/</loc>
+    <lastmod>2023-02-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/square-fit-photo/</loc>
     <lastmod>2023-02-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
