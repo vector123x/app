@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Vector123</title>
   
-  
+  <subtitle>Vector123 App Studio</subtitle>
   <link href="https://app.vector123.com/atom.xml" rel="self"/>
   
   <link href="https://app.vector123.com/"/>
-  <updated>2023-02-17T03:19:56.939Z</updated>
+  <updated>2023-02-18T03:20:26.385Z</updated>
   <id>https://app.vector123.com/</id>
   
   <author>
@@ -21,18 +21,40 @@
     <link href="https://app.vector123.com/Round-Photo-Maker/"/>
     <id>https://app.vector123.com/Round-Photo-Maker/</id>
     <published>2023-02-17T03:17:18.000Z</published>
-    <updated>2023-02-17T03:19:56.939Z</updated>
+    <updated>2023-02-18T03:20:26.385Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=com.vector123.roundphotomaker&utm_source=https://app.vector123.com"><img src="/images/round-photo-maker.webp" alt="Round Photo Maker"></a></p><p>Crop the photo into a circle or square. Make round profile pictures. Make logos.</p><p>Create your photo as a circle. You can resize the image border and choose the color of the border. Support transparent background.<br>Make round photo circle avatar.<br>Make a Picture Round.<br>Make a round photo border.<br>Make a profile photo border.<br>Make a profile picture border.<br>Make a Profile Picture Border Frame.<br>Crops the image to a circular shape.<br>Circle Crop Images.</p><a href='https://play.google.com/store/apps/details?id=com.vector123.roundphotomaker&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
+    <content type="html"><![CDATA[<p><em><strong>Crop the photo into a circle or square. Take your round photos to the next level with the Round Photo Maker.</strong></em></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.roundphotomaker&utm_source=https://app.vector123.com"><img src="/images/round-photo-maker-banner.webp" alt="Round Photo Maker"></a></p><p>Crop an image to a shape, such as a circle. Crop a picture to fit in a shape.<br>This app can manipulate photos into circles. Make round profile pictures. Make logos.<br>Create your photo as a circle. You can resize the image border and choose the color of the border. Support transparent background.</p><p>Features</p><ul><li>Make round photo circle avatar.</li><li>Make a Picture Round.</li><li>Make a round photo border.</li><li>Make a profile photo border.</li><li>Make a profile picture border.</li><li>Make a Profile Picture Border Frame.</li><li>Crops the image to a circular shape.</li><li>Circle Crop Images.</li></ul><p><a href="https://play.google.com/store/apps/details?id=com.vector123.roundphotomaker&utm_source=https://app.vector123.com"><img src="/images/round-photo-maker-1.webp" alt="Round Photo Maker"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.roundphotomaker&utm_source=https://app.vector123.com"><img src="/images/round-photo-maker-2.webp" alt="Round Photo Maker"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.roundphotomaker&utm_source=https://app.vector123.com"><img src="/images/round-photo-maker-3.webp" alt="Round Photo Maker"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.roundphotomaker&utm_source=https://app.vector123.com"><img src="/images/round-photo-maker-4.webp" alt="Round Photo Maker"></a></p><a href='https://play.google.com/store/apps/details?id=com.vector123.roundphotomaker&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vector123.roundphotomaker&amp;utm_source=https://app.vector123.com&quot;&gt;&lt;img src=&quot;/ima</summary>
+    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Crop the photo into a circle or square. Take your round photos to the next level with the Round Photo Maker.&lt;/strong&gt;&lt;/em&gt;&lt;/p</summary>
       
     
     
     
+    
+    <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
+    
+    <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
+    
+    <category term="square photo" scheme="https://app.vector123.com/tags/square-photo/"/>
+    
+    <category term="circle crop" scheme="https://app.vector123.com/tags/circle-crop/"/>
+    
+    <category term="round photo" scheme="https://app.vector123.com/tags/round-photo/"/>
+    
+    <category term="circle photo" scheme="https://app.vector123.com/tags/circle-photo/"/>
+    
+    <category term="circle shape" scheme="https://app.vector123.com/tags/circle-shape/"/>
+    
+    <category term="make logo" scheme="https://app.vector123.com/tags/make-logo/"/>
+    
+    <category term="round crop" scheme="https://app.vector123.com/tags/round-crop/"/>
+    
+    <category term="profile picture" scheme="https://app.vector123.com/tags/profile-picture/"/>
+    
+    <category term="circle avatar" scheme="https://app.vector123.com/tags/circle-avatar/"/>
     
   </entry>
   
@@ -41,38 +63,56 @@
     <link href="https://app.vector123.com/Instant-Pomodoro-Timer/"/>
     <id>https://app.vector123.com/Instant-Pomodoro-Timer/</id>
     <published>2023-02-17T02:43:18.000Z</published>
-    <updated>2023-02-17T03:11:14.485Z</updated>
+    <updated>2023-02-18T02:58:30.269Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=com.vector123.pomodoro.focustimer.tomatoclock&utm_source=https://app.vector123.com"><img src="/images/pomodoro.webp" alt="Instant Pomodoro Timer"></a></p><p>Enables you to focus on your work, take proper breaks and regain focus.</p><p>A simple and clean Pomodoro Timer that allows you to focus on your work, take proper breaks and regain focus.<br>Tomato clock countdown timer to better help you focus on the task at hand.<br>Tomato Clock, work efficiently, focus on your study work and manage your time effectively.</p><a href='https://play.google.com/store/apps/details?id=com.vector123.pomodoro.focustimer.tomatoclock&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
+    <content type="html"><![CDATA[<p><em><strong>Enables you to focus on your work, take proper breaks and regain focus.</strong></em></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.pomodoro.focustimer.tomatoclock&utm_source=https://app.vector123.com"><img src="/images/pomodoro-banner.webp" alt="Instant Pomodoro Timer"></a></p><p>A simple and clean Pomodoro Timer that allows you to focus on your work, take proper breaks and regain focus.<br>Tomato clock countdown timer to better help you focus on the task at hand.<br>Tomato Clock, work efficiently, focus on your study work and manage your time effectively.</p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.pomodoro.focustimer.tomatoclock&utm_source=https://app.vector123.com"><img src="/images/pomodoro-1.webp" alt="Instant Pomodoro Timer"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.pomodoro.focustimer.tomatoclock&utm_source=https://app.vector123.com"><img src="/images/pomodoro-2.webp" alt="Instant Pomodoro Timer"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.pomodoro.focustimer.tomatoclock&utm_source=https://app.vector123.com"><img src="/images/pomodoro-3.webp" alt="Instant Pomodoro Timer"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.pomodoro.focustimer.tomatoclock&utm_source=https://app.vector123.com"><img src="/images/pomodoro-4.webp" alt="Instant Pomodoro Timer"></a></p><a href='https://play.google.com/store/apps/details?id=com.vector123.pomodoro.focustimer.tomatoclock&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vector123.pomodoro.focustimer.tomatoclock&amp;utm_source=https://app.vector123.com</summary>
+    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Enables you to focus on your work, take proper breaks and regain focus.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.google.com</summary>
       
     
     
     
+    
+    <category term="pomodoro timer" scheme="https://app.vector123.com/tags/pomodoro-timer/"/>
+    
+    <category term="focus timer" scheme="https://app.vector123.com/tags/focus-timer/"/>
+    
+    <category term="tomato clock" scheme="https://app.vector123.com/tags/tomato-clock/"/>
+    
+    <category term="focus" scheme="https://app.vector123.com/tags/focus/"/>
     
   </entry>
   
   <entry>
-    <title>Retro Clock</title>
+    <title>Retro Clock - Digital Clock</title>
     <link href="https://app.vector123.com/Retro-Clock/"/>
     <id>https://app.vector123.com/Retro-Clock/</id>
     <published>2023-02-17T02:43:18.000Z</published>
-    <updated>2023-02-17T04:27:19.441Z</updated>
+    <updated>2023-02-18T03:40:59.548Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock.webp" alt="Retro Clock"></a></p><p>Retro Clock for old phones with striking digital display. Voice reminders every half hour.<br>Features:</p><ul><li>Switch Between 12-hour and 24-hour Clock Mode. </li><li>Plays a ticking sound like a traditional clock. </li><li>Portrait and Landscape mode support.</li><li>Minimalist full screen UI.</li></ul><a href='https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-1.png" alt="Retro Clock screenshot 1"></a><br><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-2.png" alt="Retro Clock screenshot 2"></a><br><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-3.png" alt="Retro Clock screenshot 3"></a><br><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-4.png" alt="Retro Clock screenshot 4"></a><br><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-5.png" alt="Retro Clock screenshot 5"></a><br><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-6.png" alt="Retro Clock screenshot 6"></a></p>]]></content>
+    <content type="html"><![CDATA[<p><em><strong>Retro Clock for old phones with striking digital display. Voice reminders every half hour.</strong></em></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-banner.webp" alt="Retro Clock"></a></p><p>Features:</p><ul><li>Switch Between 12-hour and 24-hour Clock Mode. </li><li>Plays a ticking sound like a traditional clock. </li><li>Portrait and Landscape mode support.</li><li>Minimalist full screen UI.</li></ul><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-1.webp" alt="Retro Clock screenshot 1"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-2.webp" alt="Retro Clock screenshot 2"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-3.webp" alt="Retro Clock screenshot 3"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-4.webp" alt="Retro Clock screenshot 4"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-5.webp" alt="Retro Clock screenshot 5"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-6.webp" alt="Retro Clock screenshot 6"></a></p><a href='https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&amp;utm_source=https://app.vector123</summary>
+    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Retro Clock for old phones with striking digital display. Voice reminders every half hour.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http</summary>
       
     
     
     
+    
+    <category term="retro clock" scheme="https://app.vector123.com/tags/retro-clock/"/>
+    
+    <category term="clock" scheme="https://app.vector123.com/tags/clock/"/>
+    
+    <category term="digital clock" scheme="https://app.vector123.com/tags/digital-clock/"/>
+    
+    <category term="voice reminders" scheme="https://app.vector123.com/tags/voice-reminders/"/>
     
   </entry>
   
@@ -81,18 +121,35 @@
     <link href="https://app.vector123.com/Text-To-Speech/"/>
     <id>https://app.vector123.com/Text-To-Speech/</id>
     <published>2023-02-17T02:43:18.000Z</published>
-    <updated>2023-02-17T03:28:14.168Z</updated>
+    <updated>2023-02-18T03:21:44.103Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=com.vector123.tts.texttospeech.readaloud&utm_source=https://app.vector123.com"><img src="/images/tts.webp" alt="Text To Speech"></a></p><p>Convert text to speech and read it aloud. Extract web content and read it aloud.</p><p>Convert text to speech and read it aloud. Text to Voice.<br>Enter your URL, extract web content and read it aloud.<br>Read news and let your phone read the news for you.<br>Read content from text files, PDF files, and read aloud.<br>Save text as audio files and share audio files with friends.</p><a href='https://play.google.com/store/apps/details?id=com.vector123.tts.texttospeech.readaloud&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
+    <content type="html"><![CDATA[<p><em><strong>Convert text to speech and read it aloud. Extract web content and read it aloud.</strong></em></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.tts.texttospeech.readaloud&utm_source=https://app.vector123.com"><img src="/images/tts-banner.webp" alt="Text To Speech"></a></p><p>Convert text to speech and read it aloud. Text to Voice.<br>Enter your URL, extract web content and read it aloud.<br>Read news and let your phone read the news for you.<br>Read content from text files, PDF files, and read aloud.<br>Save text as audio files and share audio files with friends.</p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.tts.texttospeech.readaloud&utm_source=https://app.vector123.com"><img src="/images/tts-1.webp" alt="Text To Speech Screenshot"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.tts.texttospeech.readaloud&utm_source=https://app.vector123.com"><img src="/images/tts-2.webp" alt="Text To Speech Screenshot"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.tts.texttospeech.readaloud&utm_source=https://app.vector123.com"><img src="/images/tts-3.webp" alt="Text To Speech Screenshot"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.tts.texttospeech.readaloud&utm_source=https://app.vector123.com"><img src="/images/tts-4.webp" alt="Text To Speech Screenshot"></a></p><a href='https://play.google.com/store/apps/details?id=com.vector123.tts.texttospeech.readaloud&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vector123.tts.texttospeech.readaloud&amp;utm_source=https://app.vector123.com&quot;&gt;&lt;im</summary>
+    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Convert text to speech and read it aloud. Extract web content and read it aloud.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.g</summary>
       
     
     
     
+    
+    <category term="tts" scheme="https://app.vector123.com/tags/tts/"/>
+    
+    <category term="aloud" scheme="https://app.vector123.com/tags/aloud/"/>
+    
+    <category term="speech" scheme="https://app.vector123.com/tags/speech/"/>
+    
+    <category term="read news" scheme="https://app.vector123.com/tags/read-news/"/>
+    
+    <category term="speak" scheme="https://app.vector123.com/tags/speak/"/>
+    
+    <category term="wav" scheme="https://app.vector123.com/tags/wav/"/>
+    
+    <category term="mp3" scheme="https://app.vector123.com/tags/mp3/"/>
+    
+    <category term="listen" scheme="https://app.vector123.com/tags/listen/"/>
     
   </entry>
   
@@ -101,38 +158,66 @@
     <link href="https://app.vector123.com/Colorful-Palette/"/>
     <id>https://app.vector123.com/Colorful-Palette/</id>
     <published>2021-09-15T02:04:32.000Z</published>
-    <updated>2022-11-21T10:13:45.589Z</updated>
+    <updated>2023-02-18T03:19:05.898Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=com.vector123.colorpalette&utm_source=https://app.vector123.com"><img src="/images/colorful_palette.png" alt="Colorful Palette"></a></p><p>Make a collage of your photos and palettes.</p><p>Add a beautiful color palette to your photos to make them unique and reap more likes on social media.<br>Take vivid colors from selected photos and add them to your photos to make them look better.<br>This is a palette generator that extracts prominent colors from an image and adds the palette to the bottom of the photo to make it more visually appealing.<br>Create and share stylish collages that brighten up photos with color.<br>Turn your photos into a color palette.<br>Extract color from an image and save them as color palette.<br>Palette generator to get natural and fresh color palettes from your photos.<br>Draw palette inspiration from your photos to share and inspire others.</p><a href='https://play.google.com/store/apps/details?id=com.vector123.colorpalette&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
+    <content type="html"><![CDATA[<p><em><strong>Make a collage of your photos and palettes. Turn your images into color palettes.</strong></em></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.colorpalette&utm_source=https://app.vector123.com"><img src="/images/colorful-paltte-banner.webp" alt="Colorful Palette"></a></p><p>Add a beautiful color palette to your photos to make them unique and reap more likes on social media.<br>Take vivid colors from selected photos and add them to your photos to make them look better.<br>This is a palette generator that extracts prominent colors from an image and adds the palette to the bottom of the photo to make it more visually appealing.<br>Create and share stylish collages that brighten up photos with color.<br>Turn your photos into a color palette.<br>Extract color from an image and save them as color palette.<br>Palette generator to get natural and fresh color palettes from your photos.<br>Draw palette inspiration from your photos to share and inspire others.</p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.colorpalette&utm_source=https://app.vector123.com"><img src="/images/colorful-paltte-1.webp" alt="Colorful Palette"></a></p><p>Add color palettes to photos.<br>Create a colour palette from any photo.<br>Extract palette of dominating colors from your image.<br>Color Palette from Image.<br>Create Color Scheme from Photo.<br>Swatch maker lets you create easy color palettes using your images.<br>Discover new tones from photos in your camera roll.<br>Color theme from image.<br>Color palette generator from image.<br>Built-in 110+ color palette layouts.</p><a href='https://play.google.com/store/apps/details?id=com.vector123.colorpalette&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vector123.colorpalette&amp;utm_source=https://app.vector123.com&quot;&gt;&lt;img src=&quot;/images</summary>
+    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Make a collage of your photos and palettes. Turn your images into color palettes.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.</summary>
       
     
     
     
+    
+    <category term="colorful palette" scheme="https://app.vector123.com/tags/colorful-palette/"/>
+    
+    <category term="color scheme" scheme="https://app.vector123.com/tags/color-scheme/"/>
+    
+    <category term="color palette" scheme="https://app.vector123.com/tags/color-palette/"/>
+    
+    <category term="colorin spiration" scheme="https://app.vector123.com/tags/colorin-spiration/"/>
+    
+    <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
+    
+    <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
     
   </entry>
   
   <entry>
-    <title>White Border - Square Fit Photo &amp; No Crop Photo</title>
+    <title>White Border - No Crop Photo</title>
     <link href="https://app.vector123.com/White-Border/"/>
     <id>https://app.vector123.com/White-Border/</id>
     <published>2021-05-08T13:15:23.000Z</published>
-    <updated>2022-11-21T10:37:56.751Z</updated>
+    <updated>2023-02-18T03:20:30.643Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=com.vector123.whiteborder&utm_source=https://app.vector123.com"><img src="/images/white-border.png" alt="White Border"></a></p><p>White Border is simple photo editing app help you create square photos with blur effect. Adding borders to your photo, post your photo to Instagram without cropping it. Use Awesome filters, fresh background gradients, blur backgrounds, frames, and text stickers. And High resolution output. No watermark. Clean user interface, easy to use. Share your pic on Instagram, Facebook, WhatsApp, Snapchat, Tumblr, Pinterest, Flickr and Twitter to get lots of likes!</p><a href='https://play.google.com/store/apps/details?id=com.vector123.whiteborder&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a><a href="https://taimienphi.vn/download-white-border-94610" title="download"><p style="text-align:center;">awarded 5 Stars at Taimienphi</p><img src="https://taimienphi.vn/Images/bn/reviewed/tmp2.png" title="awarded 5 Stars at Taimienphi" alt="download" /></a>]]></content>
+    <content type="html"><![CDATA[<p><em><strong>White Border is the Best Square Photo Editor for Instagram.</strong></em></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.whiteborder&utm_source=https://app.vector123.com"><img src="/images/white-border-banner.webp" alt="White Border"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.whiteborder&utm_source=https://app.vector123.com"><strong>White Border</strong></a> is simple photo editing app help you create square photos with blur effect. Adding borders to your photo, post your photo to Instagram without cropping it.</p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.whiteborder&utm_source=https://app.vector123.com"><img src="/images/white-border-1.webp" alt="White Border Screenshot"></a></p><p>Use Awesome filters, fresh background gradients, blur backgrounds, frames, and text stickers. And High resolution output. No watermark. Clean user interface, easy to use. Share your pic on Instagram, Facebook, WhatsApp, Snapchat, Tumblr, Pinterest, Flickr and Twitter to get lots of likes!</p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.whiteborder&utm_source=https://app.vector123.com"><img src="/images/white-border-2.webp" alt="White Border Screenshot"></a></p><p>Sometimes we need image without background, especially if we are using circle image. Select the Transparent background option to export an image without a background.<br>Display shooting parameters such as shooting time, exposure time, and focal length at the bottom of the photo.</p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.whiteborder&utm_source=https://app.vector123.com"><img src="/images/white-border-3.webp" alt="White Border Screenshot"></a></p><a href='https://play.google.com/store/apps/details?id=com.vector123.whiteborder&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a><a href="https://taimienphi.vn/download-white-border-94610" title="download"><p style="text-align:center;">awarded 5 Stars at Taimienphi</p><img src="https://taimienphi.vn/Images/bn/reviewed/tmp2.png" title="awarded 5 Stars at Taimienphi" alt="download" /></a>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vector123.whiteborder&amp;utm_source=https://app.vector123.com&quot;&gt;&lt;img src=&quot;/images/</summary>
+    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;White Border is the Best Square Photo Editor for Instagram.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/</summary>
       
     
     
     
+    
+    <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
+    
+    <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
+    
+    <category term="border" scheme="https://app.vector123.com/tags/border/"/>
+    
+    <category term="no crop" scheme="https://app.vector123.com/tags/no-crop/"/>
+    
+    <category term="resize photo" scheme="https://app.vector123.com/tags/resize-photo/"/>
+    
+    <category term="white background" scheme="https://app.vector123.com/tags/white-background/"/>
+    
+    <category term="blur background" scheme="https://app.vector123.com/tags/blur-background/"/>
     
   </entry>
   
@@ -141,18 +226,27 @@
     <link href="https://app.vector123.com/Square-Fit/"/>
     <id>https://app.vector123.com/Square-Fit/</id>
     <published>2021-05-07T15:07:59.000Z</published>
-    <updated>2022-11-21T10:14:29.024Z</updated>
+    <updated>2023-02-18T03:20:23.105Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=com.vector123.nocrop.squareborder.squarefitphoto&utm_source=https://app.vector123.com"><img src="/images/square-fit.png" alt="Square Fit"></a></p><p>Square Fit enables you to post entire photos on Instagram without cropping. Maintains excellent photo quality. Makes your Instagram more special. Easily adjust the blank and position, changing the background color. It is so simple but the result is amazing.</p><a href='https://play.google.com/store/apps/details?id=com.vector123.nocrop.squareborder.squarefitphoto&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
+    <content type="html"><![CDATA[<p><em><strong>Square Fit enables you to post entire photos on Instagram without cropping.</strong></em></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.nocrop.squareborder.squarefitphoto&utm_source=https://app.vector123.com"><img src="/images/square-fit-banner.webp" alt="Square Fit"></a></p><p>Maintains excellent photo quality. Makes your Instagram more special. Easily adjust the blank and position, changing the background color. It is so simple but the result is amazing.</p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.nocrop.squareborder.squarefitphoto&utm_source=https://app.vector123.com"><img src="/images/square-fit-1.webp" alt="Square Fit Screenshot"></a></p><a href='https://play.google.com/store/apps/details?id=com.vector123.nocrop.squareborder.squarefitphoto&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vector123.nocrop.squareborder.squarefitphoto&amp;utm_source=https://app.vector123.</summary>
+    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Square Fit enables you to post entire photos on Instagram without cropping.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.google</summary>
       
     
     
     
+    
+    <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
+    
+    <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
+    
+    <category term="square photo" scheme="https://app.vector123.com/tags/square-photo/"/>
+    
+    <category term="square fit photo" scheme="https://app.vector123.com/tags/square-fit-photo/"/>
     
   </entry>
   
@@ -161,7 +255,7 @@
     <link href="https://app.vector123.com/Contacts-Tools/"/>
     <id>https://app.vector123.com/Contacts-Tools/</id>
     <published>2021-05-05T00:48:15.000Z</published>
-    <updated>2023-02-17T05:49:00.957Z</updated>
+    <updated>2023-02-18T03:17:41.565Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=com.vector123.vcard&utm_source=https://app.vector123.com"><img src="/images/vcard.png" alt="Contacts Tools"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.vcard&utm_source=https://app.vector123.com">Contacts Tools</a><br>Quickly import contacts from Excel sheets to your phone’s address book. Exporting contacts to Excel file is also supported.</p><p><a href="https://apps.apple.com/app/apple-store/id6443491705?pt=2070201&ct=1000&mt=8&utm_source=https://app.vector123.com">iContacts Tool</a><br>Contacts backup, support import and export, one-click deletion of some or all contacts, merging duplicate contacts, protect privacy, and will not upload your contacts.</p><br/><table><tr><td><a href='https://play.google.com/store/apps/details?id=com.vector123.vcard&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' title="download"><img alt='Get it on Google Play' src='/images/google-play-badge.webp' title="Excel to VCF"/></a></td><td><a href='https://apps.apple.com/app/apple-store/id6443491705?pt=2070201&ct=1000&mt=8&utm_source=https%3A%2F%2Fapp.vector123.com' title="download"><img alt='Download on the App Store' src='/images/app_store_badge.webp' title="iContacts Tool"/></a></td></tr></table><br/><br/><a href="https://taimienphi.vn/download-contacts-tools-94611" title="download"><p style="text-align:center;">awarded 5 Stars at Taimienphi</p><img src="https://taimienphi.vn/Images/bn/reviewed/tmp2.png" title="awarded 5 Stars at Taimienphi" alt="download" /></a>]]></content>
     
@@ -173,6 +267,20 @@
     
     
     
+    
+    <category term="vcf" scheme="https://app.vector123.com/tags/vcf/"/>
+    
+    <category term="vcard" scheme="https://app.vector123.com/tags/vcard/"/>
+    
+    <category term="excel to vcf" scheme="https://app.vector123.com/tags/excel-to-vcf/"/>
+    
+    <category term="import contacts" scheme="https://app.vector123.com/tags/import-contacts/"/>
+    
+    <category term="export contacts" scheme="https://app.vector123.com/tags/export-contacts/"/>
+    
+    <category term="contacts backup" scheme="https://app.vector123.com/tags/contacts-backup/"/>
+    
+    <category term="merging duplicate contacts" scheme="https://app.vector123.com/tags/merging-duplicate-contacts/"/>
     
   </entry>
   
