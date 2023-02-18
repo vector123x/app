@@ -18,8 +18,8 @@
   
   <entry>
     <title>Round Photo Maker</title>
-    <link href="https://app.vector123.com/Round-Photo-Maker/"/>
-    <id>https://app.vector123.com/Round-Photo-Maker/</id>
+    <link href="https://app.vector123.com/Round-Photo-Maker.html"/>
+    <id>https://app.vector123.com/Round-Photo-Maker.html</id>
     <published>2023-02-17T03:17:18.000Z</published>
     <updated>2023-02-18T03:20:26.385Z</updated>
     
@@ -33,8 +33,6 @@
     
     
     
-    
-    <category term="square photo" scheme="https://app.vector123.com/tags/square-photo/"/>
     
     <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
     
@@ -56,12 +54,14 @@
     
     <category term="circle avatar" scheme="https://app.vector123.com/tags/circle-avatar/"/>
     
+    <category term="square photo" scheme="https://app.vector123.com/tags/square-photo/"/>
+    
   </entry>
   
   <entry>
     <title>Instant Pomodoro Timer</title>
-    <link href="https://app.vector123.com/Instant-Pomodoro-Timer/"/>
-    <id>https://app.vector123.com/Instant-Pomodoro-Timer/</id>
+    <link href="https://app.vector123.com/Instant-Pomodoro-Timer.html"/>
+    <id>https://app.vector123.com/Instant-Pomodoro-Timer.html</id>
     <published>2023-02-17T02:43:18.000Z</published>
     <updated>2023-02-18T02:58:30.269Z</updated>
     
@@ -88,9 +88,38 @@
   </entry>
   
   <entry>
+    <title>Retro Clock - Digital Clock</title>
+    <link href="https://app.vector123.com/Retro-Clock.html"/>
+    <id>https://app.vector123.com/Retro-Clock.html</id>
+    <published>2023-02-17T02:43:18.000Z</published>
+    <updated>2023-02-18T03:40:59.548Z</updated>
+    
+    <content type="html"><![CDATA[<p><em><strong>Retro Clock for old phones with striking digital display. Voice reminders every half hour.</strong></em></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-banner.webp" alt="Retro Clock"></a></p><p>Features:</p><ul><li>Switch Between 12-hour and 24-hour Clock Mode. </li><li>Plays a ticking sound like a traditional clock. </li><li>Portrait and Landscape mode support.</li><li>Minimalist full screen UI.</li></ul><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-1.webp" alt="Retro Clock screenshot 1"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-2.webp" alt="Retro Clock screenshot 2"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-3.webp" alt="Retro Clock screenshot 3"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-4.webp" alt="Retro Clock screenshot 4"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-5.webp" alt="Retro Clock screenshot 5"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-6.webp" alt="Retro Clock screenshot 6"></a></p><a href='https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Retro Clock for old phones with striking digital display. Voice reminders every half hour.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http</summary>
+      
+    
+    
+    
+    
+    <category term="retro clock" scheme="https://app.vector123.com/tags/retro-clock/"/>
+    
+    <category term="clock" scheme="https://app.vector123.com/tags/clock/"/>
+    
+    <category term="digital clock" scheme="https://app.vector123.com/tags/digital-clock/"/>
+    
+    <category term="voice reminders" scheme="https://app.vector123.com/tags/voice-reminders/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Text To Speech</title>
-    <link href="https://app.vector123.com/Text-To-Speech/"/>
-    <id>https://app.vector123.com/Text-To-Speech/</id>
+    <link href="https://app.vector123.com/Text-To-Speech.html"/>
+    <id>https://app.vector123.com/Text-To-Speech.html</id>
     <published>2023-02-17T02:43:18.000Z</published>
     <updated>2023-02-18T03:21:44.103Z</updated>
     
@@ -125,38 +154,9 @@
   </entry>
   
   <entry>
-    <title>Retro Clock - Digital Clock</title>
-    <link href="https://app.vector123.com/Retro-Clock/"/>
-    <id>https://app.vector123.com/Retro-Clock/</id>
-    <published>2023-02-17T02:43:18.000Z</published>
-    <updated>2023-02-18T03:40:59.548Z</updated>
-    
-    <content type="html"><![CDATA[<p><em><strong>Retro Clock for old phones with striking digital display. Voice reminders every half hour.</strong></em></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-banner.webp" alt="Retro Clock"></a></p><p>Features:</p><ul><li>Switch Between 12-hour and 24-hour Clock Mode. </li><li>Plays a ticking sound like a traditional clock. </li><li>Portrait and Landscape mode support.</li><li>Minimalist full screen UI.</li></ul><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-1.webp" alt="Retro Clock screenshot 1"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-2.webp" alt="Retro Clock screenshot 2"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-3.webp" alt="Retro Clock screenshot 3"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-4.webp" alt="Retro Clock screenshot 4"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-5.webp" alt="Retro Clock screenshot 5"></a></p><p><a href="https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https://app.vector123.com"><img src="/images/clock-6.webp" alt="Retro Clock screenshot 6"></a></p><a href='https://play.google.com/store/apps/details?id=com.vector123.retroclock.digitalclockforoldphones&utm_source=https%3A%2F%2Fapp.vector123.com&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='/images/google-play-badge.png'/></a>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Retro Clock for old phones with striking digital display. Voice reminders every half hour.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http</summary>
-      
-    
-    
-    
-    
-    <category term="retro clock" scheme="https://app.vector123.com/tags/retro-clock/"/>
-    
-    <category term="clock" scheme="https://app.vector123.com/tags/clock/"/>
-    
-    <category term="digital clock" scheme="https://app.vector123.com/tags/digital-clock/"/>
-    
-    <category term="voice reminders" scheme="https://app.vector123.com/tags/voice-reminders/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Colorful Palette - Color palette maker from image</title>
-    <link href="https://app.vector123.com/Colorful-Palette/"/>
-    <id>https://app.vector123.com/Colorful-Palette/</id>
+    <link href="https://app.vector123.com/Colorful-Palette.html"/>
+    <id>https://app.vector123.com/Colorful-Palette.html</id>
     <published>2021-09-15T02:04:32.000Z</published>
     <updated>2023-02-18T03:19:05.898Z</updated>
     
@@ -172,10 +172,6 @@
     
     
     
-    <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
-    
-    <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
-    
     <category term="colorful palette" scheme="https://app.vector123.com/tags/colorful-palette/"/>
     
     <category term="color scheme" scheme="https://app.vector123.com/tags/color-scheme/"/>
@@ -184,12 +180,16 @@
     
     <category term="colorin spiration" scheme="https://app.vector123.com/tags/colorin-spiration/"/>
     
+    <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
+    
+    <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
+    
   </entry>
   
   <entry>
     <title>White Border - No Crop Photo</title>
-    <link href="https://app.vector123.com/White-Border/"/>
-    <id>https://app.vector123.com/White-Border/</id>
+    <link href="https://app.vector123.com/White-Border.html"/>
+    <id>https://app.vector123.com/White-Border.html</id>
     <published>2021-05-08T13:15:23.000Z</published>
     <updated>2023-02-18T03:20:30.643Z</updated>
     
@@ -223,8 +223,8 @@
   
   <entry>
     <title>Square Fit - Post Full Pictures on Instagram</title>
-    <link href="https://app.vector123.com/Square-Fit/"/>
-    <id>https://app.vector123.com/Square-Fit/</id>
+    <link href="https://app.vector123.com/Square-Fit.html"/>
+    <id>https://app.vector123.com/Square-Fit.html</id>
     <published>2021-05-07T15:07:59.000Z</published>
     <updated>2023-02-18T03:20:23.105Z</updated>
     
@@ -240,20 +240,20 @@
     
     
     
-    <category term="square photo" scheme="https://app.vector123.com/tags/square-photo/"/>
-    
-    <category term="square fit photo" scheme="https://app.vector123.com/tags/square-fit-photo/"/>
-    
     <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
     
     <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
+    
+    <category term="square photo" scheme="https://app.vector123.com/tags/square-photo/"/>
+    
+    <category term="square fit photo" scheme="https://app.vector123.com/tags/square-fit-photo/"/>
     
   </entry>
   
   <entry>
     <title>Contacts Tools - Excel to VCF &amp; Exporting Contacts</title>
-    <link href="https://app.vector123.com/Contacts-Tools/"/>
-    <id>https://app.vector123.com/Contacts-Tools/</id>
+    <link href="https://app.vector123.com/Contacts-Tools.html"/>
+    <id>https://app.vector123.com/Contacts-Tools.html</id>
     <published>2021-05-05T00:48:15.000Z</published>
     <updated>2023-02-18T03:17:41.565Z</updated>
     
