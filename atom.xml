@@ -34,6 +34,10 @@
     
     
     
+    <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
+    
+    <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
+    
     <category term="circle crop" scheme="https://app.vector123.com/tags/circle-crop/"/>
     
     <category term="round photo" scheme="https://app.vector123.com/tags/round-photo/"/>
@@ -51,10 +55,6 @@
     <category term="circle avatar" scheme="https://app.vector123.com/tags/circle-avatar/"/>
     
     <category term="square photo" scheme="https://app.vector123.com/tags/square-photo/"/>
-    
-    <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
-    
-    <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
     
   </entry>
   
@@ -172,10 +172,6 @@
     
     
     
-    <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
-    
-    <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
-    
     <category term="colorful palette" scheme="https://app.vector123.com/tags/colorful-palette/"/>
     
     <category term="color scheme" scheme="https://app.vector123.com/tags/color-scheme/"/>
@@ -183,6 +179,10 @@
     <category term="color palette" scheme="https://app.vector123.com/tags/color-palette/"/>
     
     <category term="colorin spiration" scheme="https://app.vector123.com/tags/colorin-spiration/"/>
+    
+    <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
+    
+    <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
     
   </entry>
   
@@ -240,11 +240,11 @@
     
     
     
-    <category term="square photo" scheme="https://app.vector123.com/tags/square-photo/"/>
-    
     <category term="photo editor" scheme="https://app.vector123.com/tags/photo-editor/"/>
     
     <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
+    
+    <category term="square photo" scheme="https://app.vector123.com/tags/square-photo/"/>
     
     <category term="square fit photo" scheme="https://app.vector123.com/tags/square-fit-photo/"/>
     

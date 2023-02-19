@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://app.vector123.com/now.json</loc>
+    
+    <lastmod>2023-02-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://app.vector123.com/404/index.html</loc>
     
     <lastmod>2023-02-19</lastmod>
@@ -74,6 +81,97 @@
 
   
   <url>
+    <loc>https://app.vector123.com/tags/colorful-palette/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/color-scheme/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/color-palette/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/colorin-spiration/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/photo-editor/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/instagram/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/vcf/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/vcard/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/excel-to-vcf/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/import-contacts/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/export-contacts/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/contacts-backup/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/merging-duplicate-contacts/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://app.vector123.com/tags/pomodoro-timer/</loc>
     <lastmod>2023-02-19</lastmod>
     <changefreq>daily</changefreq>
@@ -96,6 +194,34 @@
   
   <url>
     <loc>https://app.vector123.com/tags/focus/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/retro-clock/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/clock/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/digital-clock/</loc>
+    <lastmod>2023-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/voice-reminders/</loc>
     <lastmod>2023-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -165,126 +291,7 @@
   </url>
   
   <url>
-    <loc>https://app.vector123.com/tags/photo-editor/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/instagram/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://app.vector123.com/tags/square-fit-photo/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/colorful-palette/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/color-scheme/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/color-palette/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/colorin-spiration/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/vcf/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/vcard/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/excel-to-vcf/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/import-contacts/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/export-contacts/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/contacts-backup/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/merging-duplicate-contacts/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/retro-clock/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/clock/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/digital-clock/</loc>
-    <lastmod>2023-02-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/voice-reminders/</loc>
     <lastmod>2023-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
