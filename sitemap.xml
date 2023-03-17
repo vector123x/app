@@ -95,48 +95,6 @@
 
   
   <url>
-    <loc>https://app.vector123.com/tags/colorful-palette/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/color-scheme/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/color-palette/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/colorin-spiration/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/photo-editor/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/instagram/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://app.vector123.com/tags/vcf/</loc>
     <lastmod>2023-03-17</lastmod>
     <changefreq>daily</changefreq>
@@ -186,6 +144,76 @@
   </url>
   
   <url>
+    <loc>https://app.vector123.com/tags/pomodoro-timer/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/focus-timer/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/tomato-clock/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/focus/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/colorful-palette/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/color-scheme/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/color-palette/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/colorin-spiration/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/photo-editor/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/instagram/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://app.vector123.com/tags/fake-contacts/</loc>
     <lastmod>2023-03-17</lastmod>
     <changefreq>daily</changefreq>
@@ -221,34 +249,6 @@
   </url>
   
   <url>
-    <loc>https://app.vector123.com/tags/pomodoro-timer/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/focus-timer/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/tomato-clock/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/focus/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://app.vector123.com/tags/retro-clock/</loc>
     <lastmod>2023-03-17</lastmod>
     <changefreq>daily</changefreq>
@@ -271,20 +271,6 @@
   
   <url>
     <loc>https://app.vector123.com/tags/voice-reminders/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/square-photo/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/square-fit-photo/</loc>
     <lastmod>2023-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -347,63 +333,14 @@
   </url>
   
   <url>
-    <loc>https://app.vector123.com/tags/border/</loc>
+    <loc>https://app.vector123.com/tags/square-photo/</loc>
     <lastmod>2023-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://app.vector123.com/tags/no-crop/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/resize-photo/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/white-background/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/blur-background/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/widget/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/photo-widget/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/image-widget/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://app.vector123.com/tags/desktop-widget/</loc>
+    <loc>https://app.vector123.com/tags/square-fit-photo/</loc>
     <lastmod>2023-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -460,6 +397,69 @@
   
   <url>
     <loc>https://app.vector123.com/tags/listen/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/widget/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/photo-widget/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/image-widget/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/desktop-widget/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/border/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/no-crop/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/resize-photo/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/white-background/</loc>
+    <lastmod>2023-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://app.vector123.com/tags/blur-background/</loc>
     <lastmod>2023-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

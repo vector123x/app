@@ -102,8 +102,6 @@
     
     <category term="instagram" scheme="https://app.vector123.com/tags/instagram/"/>
     
-    <category term="square photo" scheme="https://app.vector123.com/tags/square-photo/"/>
-    
     <category term="circle crop" scheme="https://app.vector123.com/tags/circle-crop/"/>
     
     <category term="round photo" scheme="https://app.vector123.com/tags/round-photo/"/>
@@ -119,6 +117,8 @@
     <category term="profile picture" scheme="https://app.vector123.com/tags/profile-picture/"/>
     
     <category term="circle avatar" scheme="https://app.vector123.com/tags/circle-avatar/"/>
+    
+    <category term="square photo" scheme="https://app.vector123.com/tags/square-photo/"/>
     
   </entry>
   
